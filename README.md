@@ -18,11 +18,15 @@ The repository includes the following files:
 
 To use the programs in this repository, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/yourusername/repositoryname.git` and navigate to the project directory.
-2. Open the project in PlatformIO:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/repositoryname.git
+   cd repositoryname
+   ```
+3. Open the project in PlatformIO:
    - Install PlatformIO in Visual Studio Code.
    - Open the cloned repository folder in PlatformIO.
-3. Compile and Upload the programs:
+4. Compile and Upload the programs:
    - Connect your Arduino hardware to your computer.
    - Use PlatformIO to compile and upload the desired program to the Arduino.
 
@@ -55,7 +59,7 @@ Contributions are welcome! To contribute:
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](./Softwaretechnik/LICENSE) file for details.
 
 ## Acknowledgments
 
