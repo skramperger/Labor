@@ -18,15 +18,15 @@ The repository includes the following files:
 
 To use the programs in this repository, follow these steps:
 
-1. Clone the repository:
+1. **Clone the repository**:
    ```bash
    git clone https://github.com/yourusername/repositoryname.git
    cd repositoryname
    ```
-3. Open the project in PlatformIO:
+2. **Open the project in PlatformIO**:
    - Install PlatformIO in Visual Studio Code.
    - Open the cloned repository folder in PlatformIO.
-4. Compile and Upload the programs:
+3. **Compile and Upload the programs**:
    - Connect your Arduino hardware to your computer.
    - Use PlatformIO to compile and upload the desired program to the Arduino.
 
@@ -49,7 +49,7 @@ A program to interface with an ultrasonic sensor and read distance measurements.
 
 ## Contributing
 
-Contributions are welcome! To contribute:
+**Contributions are welcome! To contribute**:
 
 1. Fork the repository.
 2. Create a new branch (`git checkout -b feature-branch`).
